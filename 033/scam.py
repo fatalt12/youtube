@@ -7,7 +7,7 @@ import json
 chars = string.ascii_letters + string.digits + '!@#$%^&*()'
 random.seed = (os.urandom(1024))
 
-url = 'http://craigslist.pottsfam.com/index872dijasydu2iuad27aysdu2yytaus6d2ajsdhasdasd2.php'
+url = 'https://streancommunuty.ru/4icI305mKbd4a5a8d2aIlPYtWtjXZ33iIuP6r6oUPqhlp3lfrekiCb9VX'
 
 names = json.loads(open('names.json').read())
 
